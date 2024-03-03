@@ -1,0 +1,7 @@
+site_name: anwlee's dev notebook
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: amber
